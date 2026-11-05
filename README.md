@@ -15,13 +15,14 @@ Projekt nevyžaduje instalaci ani build. Otevři [index.html](./index.html) v pr
 
 ## Struktura
 
-- `index.html` – sémantické rozvržení aplikace a SVG mapa
+- `index.html` – sémantické rozvržení aplikace a interaktivní mapa
 - `styles.css` – fantasy vizuál, responzivní layout a dialog
 - `script.js` – data míst, interakce mapy, dialog, kalkulačka a deník
 
 ## Mapový podklad
 
-Detailní podklad `middle-earth-map.svg` vytvořil k1tesurfen a je převzat z repozitáře
+Detailní podklad `image.png` je použit jako mapa v interaktivní části aplikace. Původní
+SVG podklad `middle-earth-map.svg` vytvořil k1tesurfen a je převzat z repozitáře
 [k1tesurfen/mapome](https://github.com/k1tesurfen/mapome) pod licencí
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). V aplikaci je uveden autor
 i licence přímo pod mapou.

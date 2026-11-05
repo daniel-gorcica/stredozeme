@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <!-- Tmavě zelený stín v barvě inkoustu atlasu -->
+  <g fill="#1d2525" transform="translate(2, 2)">
+    <rect x="8" y="6" width="4" height="20"/>
+    <rect x="8" y="6" width="12" height="4"/>
+    <rect x="8" y="22" width="12" height="4"/>
+    <rect x="20" y="10" width="4" height="12"/>
+    <rect x="16" y="10" width="4" height="4"/>
+    <rect x="16" y="18" width="4" height="4"/>
+  </g>
+
+  <!-- Zlatý znak v barvě mapy -->
+  <g fill="#bd8b35">
+    <rect x="8" y="6" width="4" height="20"/>
+    <rect x="8" y="6" width="12" height="4"/>
+    <rect x="8" y="22" width="12" height="4"/>
+    <rect x="20" y="10" width="4" height="12"/>
+    <rect x="16" y="10" width="4" height="4"/>
+    <rect x="16" y="18" width="4" height="4"/>
+  </g>
+</svg>
